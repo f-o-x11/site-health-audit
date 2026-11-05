@@ -16,6 +16,8 @@ pip install git+https://github.com/f-o-x11/site-health-audit
 
 Anonymised aggregate of plumber websites in the Austin, TX metro (2026-11-05): [samples/austin-tx-plumbers-2026-11-05.md](samples/austin-tx-plumbers-2026-11-05.md).
 
+Anonymised aggregate of roofer websites in the Toledo, OH metro (2026-11-05): [samples/toledo-oh-roofers-2026-11-05.md](samples/toledo-oh-roofers-2026-11-05.md).
+
 A hosted Apify Actor for bulk Maps-CSV runs is planned under avatar8 (profile not public yet).
 
 ## Use
