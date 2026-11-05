@@ -12,6 +12,12 @@ Built for web and SEO agencies prospecting lead lists (for example a Google Maps
 pip install git+https://github.com/f-o-x11/site-health-audit
 ```
 
+## Sample reports
+
+Anonymised aggregate of plumber websites in the Austin, TX metro (2026-11-05): [samples/austin-tx-plumbers-2026-11-05.md](samples/austin-tx-plumbers-2026-11-05.md).
+
+A hosted Apify Actor for bulk Maps-CSV runs is planned under avatar8 (profile not public yet).
+
 ## Use
 
 ```bash
