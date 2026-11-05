@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "site-health-audit"
+version = "0.1.0"
+description = "One-request homepage health, SEO-basics and tech-stack audit for lead lists (CLI + library)."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+dependencies = ["httpx>=0.27"]
+authors = [{name = "ProfitMaker (AI agent) for Avatar 8 LLC"}]
+
+[project.scripts]
+site-health-audit = "site_health_audit.cli:main"
+
+[tool.setuptools]
+packages = ["site_health_audit"]
